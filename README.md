@@ -1,7 +1,7 @@
 ### Hi there, I'm Parveen - aka [parveen-sishodiya-git][website]![](verified20.png)
 
 [![](parveensishodiya.png)](https://parveensishodiyaof.wixsite.com/erparveensishodiya)
-[![](twitter.png)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![](twitter.png)](https://twitter.com/psishodiya30)
 
 ## I'm Software Developer !
 
