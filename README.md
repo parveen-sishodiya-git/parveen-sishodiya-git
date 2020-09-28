@@ -96,7 +96,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://parveensishodiyaof.wixsite.com/erparveensishodiya
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
