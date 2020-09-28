@@ -1,5 +1,5 @@
 
-### Hi there, I'm Parveen - aka [parveen-sishodiya-git][website]![](verified20.png)
+### Hi there, I'm Parveen - [parveen-sishodiya-git][website]![](verified20.png)
 
 
 [![](parveensishodiya.png)](https://parveensishodiyaof.wixsite.com/erparveensishodiya)
