@@ -11,8 +11,8 @@
 - 🥅 2020 Goals: Start to contribute in Open Source projects 🌍
 - ⚡ Fun fact: I love to solve puzzels 🧩 and finding efficient solutions 🔥
 
-### My Coding Snake 🤩
-[![](codingSnakeCropped.gif)](https://wynk.in/music/detailsearch/le%20me%20love%20you?q=le%20me%20love%20you)
+### My Coding Secret 🤩
+[![](myCodingSecret.gif)](https://wynk.in/music/detailsearch/le%20me%20love%20you?q=le%20me%20love%20you)
 
 ### Connect with me:
 
