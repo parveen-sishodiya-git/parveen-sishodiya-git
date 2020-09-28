@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to solve puzzels 🧩 and finding efficient solutions 🔥
 
 ### My Coding Snake 🤩
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="parveen-sishodiya-git Playing" width="350" />](https://wynk.in/music/detailsearch/le%20me%20love%20you?q=le%20me%20love%20you)
+[codingSnake.gif](https://wynk.in/music/detailsearch/le%20me%20love%20you?q=le%20me%20love%20you)
 
 ### Connect with me:
 
