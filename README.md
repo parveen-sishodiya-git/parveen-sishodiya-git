@@ -3,7 +3,7 @@
 [![](parveensishodiya.png)](https://parveensishodiyaof.wixsite.com/erparveensishodiya)
 [![](twitter.png)](https://twitter.com/psishodiya30)
 
-## I'm Software Developer !
+## I'm a Software Developer !
 
 - 🔭 I’m currently working on a [Web Services][website]! 🧰
 - 🌱 I’m currently learning by doing 😋
@@ -31,9 +31,9 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=parveen-sishodiya-git&show_icons=true&hide_border=true" />
 
 [website]: https://parveensishodiyaof.wixsite.com/erparveensishodiya
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/psishodiya30
+[youtube]: https://www.youtube.com/channel/UCd0JAq5ldBUfXJrIi8wshHg/featured?view_as=subscriber
+[instagram]: https://www.instagram.com/praveen_sishodiya/
 [linkedin]: https://linkedin.com/in/parveensishodiya
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
