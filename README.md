@@ -1,9 +1,9 @@
-### Hi there, I'm Parveen - aka [parveen-sishodiya-git][website] 👋
+### Hi there, I'm Parveen - aka [parveen-sishodiya-git][website] ![](name-of-giphy.gif)
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm Software Developer!
+## I'm Software Developer! 
 
 - 🔭 I’m currently working on a [Web Services][website]! 🧰
 - 🌱 I’m currently learning by doing 😋
@@ -11,8 +11,8 @@
 - 🥅 2020 Goals: Start to contribute in Open Source projects 🌍
 - ⚡ Fun fact: I love to solve puzzels 🧩 and finding efficient solutions 🔥
 
-### My Coding Snake 😌
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://wynk.in/music/detailsearch/le%20me%20love%20you?q=le%20me%20love%20you)
+### My Coding Snake 🤩
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="parveen-sishodiya-git Playing" width="350" />](https://wynk.in/music/detailsearch/le%20me%20love%20you?q=le%20me%20love%20you)
 
 ### Connect with me:
 
