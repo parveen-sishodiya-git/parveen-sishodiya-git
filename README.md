@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Web Services][website]! 🧰
 - 🌱 I’m currently learning by doing 😋
 - 👯 I’m looking to collaborate with other developers 💻
-- 🥅 2020 Goals: Start to contribute in Open Source projects 🌍
+- 🥅 2021 Goal: Start to contribute in Open Source projects 🌍
 - ⚡ Fun fact: I love to solve puzzels 🧩 and finding efficient solutions 🔥
 
 ### My Coding Secret 🤩
