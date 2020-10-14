@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to solve puzzels 🧩 and finding efficient solutions 🔥
 
 ### My Coding Secret 🤩
-[![](myCodingSecret.gif)](https://gaana.com/song/let-me-love-you-415)
+[![](myCodingSecret.gif)](https://music.youtube.com/watch?v=rJ0D1GbDq1Q&feature=share)
 
 ### Connect with me:
 
